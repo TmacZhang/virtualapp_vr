@@ -4,4 +4,4 @@ APP2VR是一款将任意软件界面转换为VR剧场模式的虚拟现实引擎
 示例
 ![Image text](https://raw.githubusercontent.com/TmacZhang/virtualapp_vr/master/pics/demo.jpg)
 
-可以通过apk中的app2vr.apk测试。
+可以通过apk中的app2vr.apk测试。代码暂未开源。
